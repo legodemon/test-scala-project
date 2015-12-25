@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mFast optimizing /Users/legodemon/IdeaProjects/TestScalaProject/target/scala-2.11/scala-js-test-application-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 7396 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 30640 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 6915 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 3913 -- invalidated: 2 -- trees read: 2[0m
+[0m[[0mdebug[0m] [0mLinker: 46658 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 21681 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 63 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 6023 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 28300 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 23693 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 1500 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 25258 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 48 -- invalidated: 2[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 98 -- invalidated: 13[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 9600 us[0m

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.webjars.npm:leaflet:0.7.5:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.webjars.npm/leaflet/jars/leaflet-0.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.webjars.npm/leaflet/docs/leaflet-0.7.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.webjars.npm/leaflet/srcs/leaflet-0.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
